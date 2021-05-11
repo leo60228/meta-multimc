@@ -46,6 +46,10 @@
             "url": "https://maven.fabricmc.net/"
         },
         {
+            "name": "com.google.guava:guava:21.0",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
             "name": "net.fabricmc:fabric-loader-1.8.9:0.11.1+build.202102220648",
             "url": "https://maven.legacyfabric.net"
         }
