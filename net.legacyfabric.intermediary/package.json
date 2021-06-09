@@ -1,0 +1,16 @@
+{
+    "authors": [
+        "Legacy Fabric Developers"
+    ],
+    "description": "Intermediary mappings allow using Fabric Loader with mods for Minecraft in a more compatible manner.",
+    "formatVersion": 1,
+    "name": "Intermediary Mappings",
+    "projectUrl": "https://legacyfabric.net",
+    "recommended": [
+        "1.12.2",
+        "1.8.9",
+        "1.7.10",
+        "1.6.4"
+    ],
+    "uid": "net.legacyfabric.intermediary"
+}

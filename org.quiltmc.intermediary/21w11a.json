@@ -1,0 +1,22 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "org.quiltmc:intermediary:21w11a",
+            "url": "https://maven.quiltmc.org/repository/release"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "order": 11,
+    "releaseTime": "2021-03-17T18:39:08+00:00",
+    "requires": [
+        {
+            "equals": "21w11a",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "org.quiltmc.intermediary",
+    "version": "21w11a",
+    "volatile": true
+}

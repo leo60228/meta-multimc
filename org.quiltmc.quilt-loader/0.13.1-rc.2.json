@@ -1,0 +1,65 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "org.quiltmc:tiny-mappings-parser:0.3.0",
+            "url": "https://maven.quiltmc.org/repository/release/"
+        },
+        {
+            "name": "org.quiltmc:sponge-mixin:0.9.2+mixin.0.8.2",
+            "url": "https://maven.quiltmc.org/repository/release/"
+        },
+        {
+            "name": "org.quiltmc:tiny-remapper:0.3.2",
+            "url": "https://maven.quiltmc.org/repository/release/"
+        },
+        {
+            "name": "org.quiltmc:access-widener:1.0.2",
+            "url": "https://maven.quiltmc.org/repository/release/"
+        },
+        {
+            "name": "org.quiltmc:quilt-loader-sat4j:2.3.5",
+            "url": "https://maven.quiltmc.org/repository/release/"
+        },
+        {
+            "name": "com.google.jimfs:jimfs:1.2",
+            "url": "https://maven.quiltmc.org/repository/central/"
+        },
+        {
+            "name": "org.ow2.asm:asm:9.1",
+            "url": "https://maven.quiltmc.org/repository/central/"
+        },
+        {
+            "name": "org.ow2.asm:asm-analysis:9.1",
+            "url": "https://maven.quiltmc.org/repository/central/"
+        },
+        {
+            "name": "org.ow2.asm:asm-commons:9.1",
+            "url": "https://maven.quiltmc.org/repository/central/"
+        },
+        {
+            "name": "org.ow2.asm:asm-tree:9.1",
+            "url": "https://maven.quiltmc.org/repository/central/"
+        },
+        {
+            "name": "org.ow2.asm:asm-util:9.1",
+            "url": "https://maven.quiltmc.org/repository/central/"
+        },
+        {
+            "name": "org.quiltmc:quilt-loader:0.13.1-rc.2",
+            "url": "https://maven.quiltmc.org/repository/release"
+        }
+    ],
+    "mainClass": "org.quiltmc.loader.impl.launch.knot.KnotClient",
+    "name": "Quilt Loader",
+    "order": 10,
+    "releaseTime": "2021-04-25T23:18:42+00:00",
+    "requires": [
+        {
+            "uid": "org.quiltmc.intermediary"
+        }
+    ],
+    "type": "snapshot",
+    "uid": "org.quiltmc.quilt-loader",
+    "version": "0.13.1-rc.2"
+}

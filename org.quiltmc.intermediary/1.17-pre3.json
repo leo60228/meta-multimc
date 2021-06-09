@@ -1,0 +1,22 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "org.quiltmc:intermediary:1.17-pre3",
+            "url": "https://maven.quiltmc.org/repository/release"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "order": 11,
+    "releaseTime": "2021-06-08T17:11:24+00:00",
+    "requires": [
+        {
+            "equals": "1.17-pre3",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "org.quiltmc.intermediary",
+    "version": "1.17-pre3",
+    "volatile": true
+}

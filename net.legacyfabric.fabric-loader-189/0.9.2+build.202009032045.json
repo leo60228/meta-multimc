@@ -1,0 +1,61 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "net.fabricmc:tiny-mappings-parser:0.2.2.14",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "net.fabricmc:sponge-mixin:0.8.1+build.21",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "net.fabricmc:tiny-remapper:0.2.2.64",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "net.fabricmc:fabric-loader-sat4j:2.3.5.4",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "com.google.jimfs:jimfs:1.2-fabric",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm:8.0",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm-analysis:8.0",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm-commons:8.0",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm-tree:8.0",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "org.ow2.asm:asm-util:8.0",
+            "url": "https://maven.fabricmc.net/"
+        },
+        {
+            "name": "net.fabricmc:fabric-loader-1.8.9:0.9.2+build.202009032045",
+            "url": "https://maven.legacyfabric.net"
+        }
+    ],
+    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
+    "name": "Fabric Loader 1.8.9",
+    "order": 10,
+    "releaseTime": "2020-09-03T20:46:30+00:00",
+    "requires": [
+        {
+            "uid": "net.legacyfabric.intermediary"
+        }
+    ],
+    "type": "release",
+    "uid": "net.legacyfabric.fabric-loader-189",
+    "version": "0.9.2+build.202009032045"
+}

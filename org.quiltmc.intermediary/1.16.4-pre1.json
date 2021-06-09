@@ -1,0 +1,22 @@
+{
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "org.quiltmc:intermediary:1.16.4-pre1",
+            "url": "https://maven.quiltmc.org/repository/release"
+        }
+    ],
+    "name": "Intermediary Mappings",
+    "order": 11,
+    "releaseTime": "2020-10-15T21:21:56+00:00",
+    "requires": [
+        {
+            "equals": "1.16.4-pre1",
+            "uid": "net.minecraft"
+        }
+    ],
+    "type": "release",
+    "uid": "org.quiltmc.intermediary",
+    "version": "1.16.4-pre1",
+    "volatile": true
+}
